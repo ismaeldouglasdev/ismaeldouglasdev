@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning **Python, HTML & CSS, and Java!**
 - ☄️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me? -> Search for 'Ismael Douglas' on *LinkedIn*.
-- ⚡ Fun fact: I'm currently learning english aswell, it's been more than a year now so i'm on intermediate level! :) 
+- ⚡ Fun fact: I'm currently learning english aswell, it's been more than a year now so i'm on advanced level! :) 
