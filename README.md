@@ -13,4 +13,4 @@
     
 - ☄️ Open to collaborating on open-source projects.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ismael-douglas-dev).
-- ⚡ Fun fact: Built a Python automation script to organize +6k music tracks across +50 playlists on my PC, following my phone structure!🎵
+- ⚡ Fun fact: I've built a Python automation script to organize +6k music tracks across +50 playlists on my PC, following my phone structure!🎵
