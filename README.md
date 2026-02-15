@@ -1,6 +1,6 @@
 👋 Hi, I'm [@ismaeldouglasdev](https://github.com/ismaeldouglasdev).
 
-- 🧠 Interested in coding and self-development.
+- 🧠 Interested in coding, music, lifestyle and self-development.
 - 🌱 Currently learning:
   * **Python**🐍
   * **Pandas**🐼
