@@ -2,14 +2,14 @@
 
 - 🧠 Interested in coding, music, lifestyle and self-development.
 - 🌱 Currently learning:
-  * **Python**🐍
-  * **Pandas**🐼
-  * **Docker**🐳
-  * **FastAPI**⚡
-  * **CustomTkinter**💡
-  * **Matplotlib**📊
-  * **SQLalchemy**🧪
-  * **Agentic Development**🤖
+  * **Python**
+  * **Pandas**
+  * **Docker**
+  * **FastAPI**
+  * **CustomTkinter**
+  * **Matplotlib**
+  * **SQLalchemy**
+  * **Agentic Development**
     
 - ☄️ Open to collaborating on open-source projects.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ismael-douglas-dev).
