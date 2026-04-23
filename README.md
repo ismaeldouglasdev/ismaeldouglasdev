@@ -82,14 +82,13 @@ Atualmente no último semestre de ADS, com experiência prática desenvolvendo s
 
 ---
 
-🔹 **Automated Music Organizer**  
-🚀 Python script that organized **6000+ music files** while preserving playlist structure automatically.  
-💡 Eliminates repetitive manual work and improves media organization.  
+🔹 PeakVault 🚀 Generic JSON management & analysis system with a modern GUI for tracking and visualizing personal data (animes, movies, or games).
+💡 Features a dynamic CRUD that adapts to any flat JSON structure, data grouping, and visual charts.
 
-🇧🇷 Script em Python que organizou **6000+ arquivos de música** mantendo a estrutura de playlists automaticamente.  
-💡 Elimina trabalho manual repetitivo.
+🇧🇷 Sistema genérico de gerenciamento e análise de JSON com uma interface moderna para rastreamento e visualização de dados (animes, filmes ou jogos).
+💡 Possui um CRUD dinâmico que se adapta a qualquer estrutura JSON plana, agrupamento de dados e geração de gráficos.
 
-🔗 https://github.com/ismaeldouglasdev
+🔗 https://github.com/ismaeldouglasdev/PeakVault
 
 ---
 
