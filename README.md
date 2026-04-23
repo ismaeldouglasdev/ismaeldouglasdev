@@ -78,7 +78,7 @@ Atualmente no último semestre de ADS, com experiência prática desenvolvendo s
 🇧🇷 Sistema full-stack com **mecânicas de gamificação (níveis, progresso, consistência)** para aumentar produtividade nos estudos.  
 💡 Foco em comportamento do usuário e retenção.
 
-🔗 https://github.com/ismaeldouglasdev
+🔗 https://github.com/ismaeldouglasdev/Cronograma-Projeto
 
 ---
 
