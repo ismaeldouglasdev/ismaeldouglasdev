@@ -7,7 +7,7 @@ Currently in my final semester of an Associate Degree in Software Development, w
 
 💡 **Specialty:** turning complex and repetitive tasks into scalable and automated systems.
 
-🚀 **Tech Focus:** Python • FastAPI • TypeScript • Node.js • PostgreSQL • Linux (Arch/Hyprland)
+🚀 **Tech Focus:** Python • FastAPI • Node.js • PostgreSQL • Linux
 
 ---
 
@@ -18,24 +18,41 @@ Atualmente no último semestre de ADS, com experiência prática desenvolvendo s
 
 💡 **Especialidade:** transformar tarefas complexas e repetitivas em sistemas automatizados e escaláveis.
 
-🚀 **Tech Focus:** Python • FastAPI • TypeScript • Node.js • PostgreSQL • Linux (Arch/Hyprland)
+🚀 **Tech Focus:** Python • FastAPI • Node.js • PostgreSQL • Linux
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend & Systems
+### ⚙️ Core (Main Focus)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Languages & Runtime
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![English](https://img.shields.io/badge/English-C1%20%2F%20C2-green?style=for-the-badge)
-
-### ☁️ DevOps & Environment
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🔧 Supporting Skills
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎨 Frontend Basics
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🐧 Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
