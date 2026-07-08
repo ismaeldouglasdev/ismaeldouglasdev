@@ -3,7 +3,7 @@
 ## 👾 About Me
 I'm a **Fullstack Developer** focused on building efficient end-to-end applications, intelligent automation, and robust systems. I combine solid backend architectures with dynamic user interfaces, driven by a strong interest in **productivity, developer tools, and agentic development**.
 
-Currently in my final semester of an Associate Degree in Software Development, with hands-on experience delivering real-world solutions and actively contributing to open-source software.
+I Have an Associate Degree in Software Development, with hands-on experience delivering real-world solutions and actively contributing to open-source software.
 
 💡 **Specialty:** Bridging the gap between scalable backend systems, clean frontend interfaces, and automated workflows.
 
@@ -14,7 +14,7 @@ Currently in my final semester of an Associate Degree in Software Development, w
 ## 🇧🇷 Sobre mim
 Sou um **Desenvolvedor Fullstack** focado na construção de aplicações completas e eficientes, automações inteligentes e sistemas robustos. Combino arquiteturas sólidas de backend com interfaces dinâmicas, movido por um forte interesse em **produtividade, ferramentas de desenvolvimento e agentic development**.
 
-Atualmente no último semestre de ADS, com experiência prática desenvolvendo soluções reais e contribuindo ativamente para projetos open-source.
+Formado em ADS, com experiência prática desenvolvendo soluções reais e contribuindo ativamente para projetos open-source.
 
 💡 **Especialidade:** Conectar sistemas escaláveis de backend, interfaces de usuário limpas e fluxos automatizados de trabalho.
 
