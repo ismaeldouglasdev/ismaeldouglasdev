@@ -99,13 +99,41 @@ Formado em ADS, com experiência prática desenvolvendo soluções reais e contr
 
 ---
 
-🔹 **Gamified Study System** 🚀 Full-stack system with **gamification mechanics (levels, progression, consistency)** to improve study habits and productivity.
-💡 Focused on user behavior, retention, and discipline.
+🔹 **Elshaday — Omnichannel Retail Integration** 🚀 Event-driven system connecting a physical POS (OSPOS/MySQL) with WooCommerce, Shopee, and Mercado Livre — inventory sync, CDC agent, Saga pattern, and marketplace plugin adapters.
 
-🇧🇷 Sistema full-stack com **mecânicas de gamificação (níveis, progresso, consistência)** para aumentar produtividade nos estudos.
-💡 Foco em comportamento do usuário e retenção.
+💡 Commercial project for a real retail business. Code is private, but the architecture (event-driven inventory service + omnichannel sync) is available to discuss in a call.
 
-🔗 https://github.com/ismaeldouglasdev/Cronograma-Projeto | [cronograma-projeto.onrender.com](https://cronograma-projeto.onrender.com/)
+🇧🇷 Sistema de integração omnichannel para varejo — conecta PDV físico (OSPOS/MySQL) com WooCommerce, Shopee e Mercado Livre via serviço de inventário orientado a eventos, CDC e padrão Saga. Projeto comercial para cliente real (código privado, arquitetura disponível para discussão).
+
+---
+
+🔹 **provider-health-daemon** 🚀 Real-time, error-aware routing daemon for AI providers — cooldown management, exponential backoff, and prompt-limiting integration for a self-hosted multi-provider gateway (9router).
+
+💡 Infrastructure for agentic systems: keeps LLM routing resilient when providers fail or throttle.
+
+🇧🇷 Daemon de roteamento com consciência de erros em tempo real para provedores de IA — gerenciamento de cooldown, backoff exponencial e integração de limitação de prompts para um gateway multi-provedor self-hosted.
+
+🔗 https://github.com/ismaeldouglasdev/provider-health-daemon
+
+---
+
+🔹 **amd-hybrid-router** 🏆 AMD Hackathon Act II (Track 1) — hybrid token-efficient routing agent that selects the cheapest Fireworks AI model sufficient for each task.
+
+💡 Built under hackathon time constraints — cost-aware model routing for agentic pipelines.
+
+🇧🇷 Projeto do AMD Hackathon Act II — agente de roteamento híbrido, otimizado por token, que seleciona o modelo mais barato da Fireworks AI suficiente para cada tarefa.
+
+🔗 https://github.com/ismaeldouglasdev/amd-hybrid-router
+
+---
+
+🔹 **plexo** 🚀 Centralized task manager with a Web UI (React), a Terminal UI (Textual), and a REST API — fully local, plain JSON storage, no external dependencies.
+
+💡 Same domain logic exposed through three different interfaces — API design and multi-frontend architecture in one project.
+
+🇧🇷 Gerenciador de tarefas centralizado com interface Web (React), interface de terminal (Textual) e API REST — totalmente local, armazenamento em JSON puro.
+
+🔗 https://github.com/ismaeldouglasdev/plexo
 
 ---
 
@@ -115,14 +143,6 @@ Formado em ADS, com experiência prática desenvolvendo soluções reais e contr
 🇧🇷 Sistema genérico de gerenciamento e análise de JSON com interface moderna (CustomTkinter). CRUD dinâmico que se adapta a qualquer estrutura JSON plana, suporta importação de 10k+ registros, agrupamento de dados e geração de gráficos.
 
 🔗 https://github.com/ismaeldouglasdev/PeakVault
-
----
-
-🔹 **Downloads Auto-Organizer** 🚀 System that automatically sorts files by type/extension in the downloads folder.
-💡 Focused on workflow automation and productivity.
-
-🇧🇷 Sistema que organiza automaticamente arquivos por tipo/extensão na pasta de downloads.
-💡 Foco em automação e produtividade.
 
 ---
 
