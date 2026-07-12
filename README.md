@@ -105,7 +105,7 @@ Formado em ADS, com experiência prática desenvolvendo soluções reais e contr
 🇧🇷 Sistema full-stack com **mecânicas de gamificação (níveis, progresso, consistência)** para aumentar produtividade nos estudos.
 💡 Foco em comportamento do usuário e retenção.
 
-🔗 https://github.com/ismaeldouglasdev/Cronograma-Projeto
+🔗 https://github.com/ismaeldouglasdev/Cronograma-Projeto | [cronograma-projeto.onrender.com](https://cronograma-projeto.onrender.com/)
 
 ---
 
