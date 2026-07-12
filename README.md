@@ -1,9 +1,11 @@
 # 🚀 Fullstack Engineer | Automation & Systems Builder
 
+🟢 **Open to freelance/contract work** — [ismaeltech.com](https://ismaeltech.com)
+
 ## 👾 About Me
 I'm a **Fullstack Developer** focused on building efficient end-to-end applications, intelligent automation, and robust systems. I combine solid backend architectures with dynamic user interfaces, driven by a strong interest in **productivity, developer tools, and agentic development**.
 
-I Have an Associate Degree in Software Development, with hands-on experience delivering real-world solutions and actively contributing to open-source software.
+I have an Associate Degree in Software Development, with hands-on experience delivering real-world solutions and actively contributing to open-source software.
 
 💡 **Specialty:** Bridging the gap between scalable backend systems, clean frontend interfaces, and automated workflows.
 
@@ -12,6 +14,8 @@ I Have an Associate Degree in Software Development, with hands-on experience del
 ---
 
 ## 🇧🇷 Sobre mim
+🟢 **Disponível para projetos freelance** — [ismaeltech.com](https://ismaeltech.com)
+
 Sou um **Desenvolvedor Fullstack** focado na construção de aplicações completas e eficientes, automações inteligentes e sistemas robustos. Combino arquiteturas sólidas de backend com interfaces dinâmicas, movido por um forte interesse em **produtividade, ferramentas de desenvolvimento e agentic development**.
 
 Formado em ADS, com experiência prática desenvolvendo soluções reais e contribuindo ativamente para projetos open-source.
@@ -71,50 +75,53 @@ Formado em ADS, com experiência prática desenvolvendo soluções reais e contr
 
 ## 🧠 Featured Projects
 
-🔹 **Gamified Study System** 🚀 Full-stack system with **gamification mechanics (levels, progression, consistency)** to improve study habits and productivity.  
-💡 Focused on user behavior, retention, and discipline.  
+🔹 **Engram (Open Source — Top Contributor)** ⭐ 82 🚀 Multi-agent memory consistency platform.
+- 90+ merged PRs, 130+ commits
+- Security hardening (PII/secret scanner), critical conflict-detection fixes
+- CLI, dashboard, Neovim & Slack plugins
+- Architecture docs and SOC 2 compliance
 
-🇧🇷 Sistema full-stack com **mecânicas de gamificação (níveis, progresso, consistência)** para aumentar produtividade nos estudos.  
+💡 Real collaboration in a scalable, production codebase — validated by an outside team, not a solo repo.
+
+🇧🇷 Plataforma de consistência de memória multi-agente. Top Contributor com 90+ PRs aprovados, 130+ commits, hardening de segurança, correções críticas no motor de conflitos, CLI, dashboard e plugins.
+
+🔗 https://github.com/Agentscreator/engram-memory | https://www.engram-memory.com/
+
+---
+
+🔹 **Messengers of Hope (Mensageiros da Esperança)** 🚀 Web system for NGO management — course registration, 100+ volunteers, digital attendance and real-time dashboard (Firebase).
+
+💡 End-to-end delivery for a real client: discovery, build, and handoff — with a testimonial from the institution.
+
+🇧🇷 Sistema web de gestão para ONG — inscrição em cursos, 100+ voluntários, chamada digital e dashboard em tempo real (Firebase). Entrega completa para cliente real, do levantamento de requisitos à entrega.
+
+🔗 https://github.com/ismaeldouglasdev/mensageiros-da-esperanca | https://mensageiros-da-esperanca.vercel.app/
+
+---
+
+🔹 **Gamified Study System** 🚀 Full-stack system with **gamification mechanics (levels, progression, consistency)** to improve study habits and productivity.
+💡 Focused on user behavior, retention, and discipline.
+
+🇧🇷 Sistema full-stack com **mecânicas de gamificação (níveis, progresso, consistência)** para aumentar produtividade nos estudos.
 💡 Foco em comportamento do usuário e retenção.
 
 🔗 https://github.com/ismaeldouglasdev/Cronograma-Projeto
 
 ---
 
-🔹 **PeakVault** 🚀 Generic JSON management & analysis system with a modern GUI for tracking and visualizing personal data (animes, movies, or games).  
-💡 Features a dynamic CRUD that adapts to any flat JSON structure, data grouping, and visual charts.
+🔹 **PeakVault** 🚀 Generic JSON management & analysis system with a modern GUI (CustomTkinter) for tracking and visualizing personal data (animes, movies, or games).
+💡 Dynamic CRUD that adapts to any flat JSON structure, handles 10k+ record imports, data grouping, and visual charts.
 
-🇧🇷 Sistema genérico de gerenciamento e análise de JSON com uma interface moderna para rastreamento e visualização de dados (animes, filmes ou jogos).  
-💡 Possui um CRUD dinâmico que se adapta a qualquer estrutura JSON plana, agrupamento de dados e geração de gráficos.
+🇧🇷 Sistema genérico de gerenciamento e análise de JSON com interface moderna (CustomTkinter). CRUD dinâmico que se adapta a qualquer estrutura JSON plana, suporta importação de 10k+ registros, agrupamento de dados e geração de gráficos.
 
 🔗 https://github.com/ismaeldouglasdev/PeakVault
 
 ---
 
-🔹 **Engram (Open Source Contributor)** 🚀 Active contributions to a real-world open-source project:  
-- 89 merged PRs  
-- 129+ commits  
-- architecture improvements  
-- integrations (Slack, Neovim)  
-- critical fixes (SQLite/Postgres)  
+🔹 **Downloads Auto-Organizer** 🚀 System that automatically sorts files by type/extension in the downloads folder.
+💡 Focused on workflow automation and productivity.
 
-💡 Strong experience collaborating in scalable codebases.  
-
-🇧🇷 Contribuições relevantes em projeto open-source:  
-- 89 PRs aprovados  
-- 129+ commits  
-- melhorias em arquitetura  
-- integrações (Slack, Neovim)  
-- correções críticas (SQLite/Postgres)  
-
-💡 Experiência real com código escalável e colaboração.
-
----
-
-🔹 **Downloads Auto-Organizer** 🚀 System that automatically sorts files by type/extension in the downloads folder.  
-💡 Focused on workflow automation and productivity.  
-
-🇧🇷 Sistema que organiza automaticamente arquivos por tipo/extensão na pasta de downloads.  
+🇧🇷 Sistema que organiza automaticamente arquivos por tipo/extensão na pasta de downloads.
 💡 Foco em automação e produtividade.
 
 ---
@@ -125,5 +132,6 @@ Formado em ADS, com experiência prática desenvolvendo soluções reais e contr
 ---
 
 ## 🔗 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ismaeltech.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-douglas-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ismaelcodes.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ismaeltech.com)
