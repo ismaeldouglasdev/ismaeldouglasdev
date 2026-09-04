@@ -56,7 +56,7 @@ Course registration, digital attendance, and a real-time dashboard (Firebase) fo
 🔗 [repo](https://github.com/ismaeldouglasdev/mensageiros-da-esperanca) · [live](https://mensageiros-da-esperanca.vercel.app/)
 
 **Elshaday, Omnichannel Retail Integration**, commercial project (private code)
-Event-driven service syncing a physical POS (OSPOS/MySQL) with WooCommerce, Shopee, and Mercado Livre. CDC agent, Saga pattern, inventory sync across marketplace adapters. Architecture available to walk through in a call.
+Event-driven service syncing a physical POS (OSPOS/MySQL) with WooCommerce, Shopee, and Mercado Livre. CDC agent, Saga pattern, inventory sync across marketplace adapters.
 
 **[provider-health-daemon](https://github.com/ismaeldouglasdev/provider-health-daemon)**, LLM routing infrastructure
 Real-time, error-aware routing daemon for a self-hosted multi-provider gateway (9router). Cooldown management, exponential backoff, prompt-limiting. Keeps agentic pipelines running when a provider fails or throttles.
